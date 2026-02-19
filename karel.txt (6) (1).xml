@@ -1,0 +1,47 @@
+iniciar-programa
+    inicia-ejecucion
+repetir 14 veces
+inicio
+sino -junto-a-zumbadorentonces
+inicio
+deja-zumbado;
+avanza;
+fin
+sino
+inicio
+sijunto-a-zumbadorentonces
+inicio
+coge-zumbador
+si junto-a-zumbador entonces
+inicio
+avanza;
+fin
+sino
+inicio
+deja-zumbador;
+avanza;
+fin;
+fin;
+fin;
+sino-junto-a-zumbador entonces
+inicio
+deja-zumbado;
+fin
+sino
+inicio
+si junto-a-zumbadorentonces
+inicio
+coge-zumbador
+si junto-a-zumbador entonces
+inicio
+fin
+sino
+inicio
+
+deja-zumbado
+fin;
+fin;
+fin;
+        apagate;
+    termina-ejecucion
+finalizar-programa
